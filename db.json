@@ -1,6 +1,7 @@
 
- {"usn": 101, "name": "Prajwal", "city": "Bangalore", "phone": 9902551372}, 
+[ {"usn": 101, "name": "Prajwal", "city": "Bangalore", "phone": 9902551372}, 
 {"usn": 102, "name": "Rahul", "city": "Pune", "phone": 9907152352},
 {"usn": 103, "name": "Rohan", "city": "Chennai", "phone": 9907896572}, 
 {"usn": 104, "name": "Rohit", "city": "Bangalore", "phone": 9741296572},
 {"usn": 105, "name": "Rohini", "city": "Chennai", "phone": 9978546572} 
+]
